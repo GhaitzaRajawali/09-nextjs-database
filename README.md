@@ -10,3 +10,6 @@ SOAL 1
 
 SOAL 2
 ![Soal 2](img/Praktikum1_task2.png)
+
+SOAL 3
+![Soal 3](img/Praktikum1_task3.png)
