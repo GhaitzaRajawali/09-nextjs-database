@@ -25,3 +25,6 @@ SOAL 6
 
 SOAL 7
 ![Soal 7](img/Praktikum1_task7.png)
+
+TUGAS PRAKTIKUM
+![Tugas Praktikum](img/Pratikum1_task8.png)
