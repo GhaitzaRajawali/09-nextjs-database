@@ -16,3 +16,6 @@ SOAL 3
 
 SOAL 4
 ![Soal 4](img/Praktikum1_task4.png)
+
+SOAL 5
+![Soal 5](img/Praktikum1_task5.png)
