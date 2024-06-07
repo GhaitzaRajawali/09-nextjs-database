@@ -22,3 +22,6 @@ SOAL 5
 
 SOAL 6
 ![Soal 6](img/Praktikum1_task6.png)
+
+SOAL 7
+![Soal 7](img/Praktikum1_task7.png)
